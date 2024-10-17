@@ -15,4 +15,4 @@ Este proyecto trata de ayudar a los usuarios en convertir de moneda local a una 
  ```
 ## 🚀 Acerca de mí
  Soy un joven apasionado por el mundo backend que le gusta aprender constantemente
- Agregame a [Linkedin](www.linkedin.com/in/robertoalb)
+ Agregame a [Linkedin](https://www.linkedin.com/in/robertoalb)
